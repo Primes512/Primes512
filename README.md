@@ -4,3 +4,5 @@
 - 💞️ I’m looking to collaborate on ...Backend projects dealing with automation
 - 📫 How to reach me ...cruzalop@gmail.com
 
+- Below are projects I have worked on. Currently working on an app to estimate the value of used cars. Stay tuned!
+
